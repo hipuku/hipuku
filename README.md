@@ -9,19 +9,19 @@ Software engineer in Sydney, working on design systems, testing and the tools ar
 </p>
 
 <p align="center">
-Open to roles in design systems, design engineering and frontend.
+Get in touch about projects in design systems, design engineering or frontend.
 </p>
 
 <p align="center">
-<a href="https://www.hipuku.dev">hipuku.dev</a> &nbsp;·&nbsp;
 <a href="mailto:hipuku.dev@gmail.com">hipuku.dev@gmail.com</a> &nbsp;·&nbsp;
+<a href="https://www.hipuku.dev">hipuku.dev</a> &nbsp;·&nbsp;
 <a href="https://www.figma.com/@hipuku">Figma</a>
 </p>
 
 <br>
 <br>
 
-<h3><a href="https://www.hipuku.dev/work"><img src="assets/headings/work.png" alt="selected work" height="40"></a></h3>
+<h3><a href="https://www.hipuku.dev/work"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/headings/work-dark.png"><img src="assets/headings/work-light.png" alt="work" height="29"></picture></a></h3>
 
 <br>
 
@@ -71,9 +71,8 @@ Open to roles in design systems, design engineering and frontend.
 <br>
 
 <br>
-<br>
 
-<h3><a href="https://www.hipuku.dev/experiments"><img src="assets/headings/experiments.png" alt="few experiments" height="40"></a></h3>
+<h3><a href="https://www.hipuku.dev/experiments"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/headings/tools-dark.png"><img src="assets/headings/tools-light.png" alt="tools" height="29"></picture></a></h3>
 
 Free, in the browser, no sign-up, MIT licensed.
 
@@ -116,30 +115,29 @@ Free, in the browser, no sign-up, MIT licensed.
 <br>
 
 <br>
-<br>
 
-<h3><a href="https://www.hipuku.dev/snippets"><img src="assets/headings/snippets.png" alt="motion snippets" height="40"></a></h3>
+<h3><a href="https://www.hipuku.dev/snippets"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/headings/snippets-dark.png"><img src="assets/headings/snippets-light.png" alt="snippets" height="29"></picture></a></h3>
 
-Sixteen interactive demos: physics integrated by hand, canvas fields, variable-font type, SVG filters and GSAP, each shown beside its code. Select one to try it live.
+Motion and interaction techniques from client work, each shown beside its code. Select one to try it live.
 
 <br>
 
 <p>
-<a href="https://www.hipuku.dev/snippets#shape-pit"><img src="assets/snippets/shape-pit.gif" alt="Shape pit: concave bodies falling into a pit" title="Shape pit" width="32%"></a>&nbsp;
-<a href="https://www.hipuku.dev/snippets#cloth-pluck"><img src="assets/snippets/cloth-pluck.gif" alt="Cloth pluck: a verlet cloth being pulled" title="Cloth pluck" width="32%"></a>&nbsp;
-<a href="https://www.hipuku.dev/snippets#text-pressure"><img src="assets/snippets/text-pressure.gif" alt="Text pressure: variable-font weight under the cursor" title="Text pressure" width="32%"></a>
+<a href="https://www.hipuku.dev/snippets#velocity-marquee"><img src="assets/snippets/velocity-marquee.gif" alt="Velocity marquee: rows of type pushed by scrolling" title="Velocity marquee" width="32%"></a>
+&nbsp;<a href="https://www.hipuku.dev/snippets#shape-pit"><img src="assets/snippets/shape-pit.gif" alt="Shape pit: concave bodies falling into a pit" title="Shape pit" width="32%"></a>
+&nbsp;<a href="https://www.hipuku.dev/snippets#text-scramble"><img src="assets/snippets/text-scramble.gif" alt="Text scramble: the letters of a phrase scrambling under the cursor" title="Text scramble" width="32%"></a>
 </p>
 
 <p>
-<a href="https://www.hipuku.dev/snippets#flocking"><img src="assets/snippets/flocking.gif" alt="Flocking: a flock scattering from the cursor" title="Flocking" width="32%"></a>&nbsp;
-<a href="https://www.hipuku.dev/snippets#metaballs"><img src="assets/snippets/metaballs.gif" alt="Metaballs: a gooey merge in one SVG filter" title="Metaballs" width="32%"></a>&nbsp;
-<a href="https://www.hipuku.dev/snippets#iron-filings"><img src="assets/snippets/iron-filings.gif" alt="Iron filings: field lines on a grid" title="Iron filings" width="32%"></a>
+<a href="https://www.hipuku.dev/snippets#cloth-pluck"><img src="assets/snippets/cloth-pluck.gif" alt="Cloth pluck: a verlet cloth being pulled" title="Cloth pluck" width="32%"></a>
+&nbsp;<a href="https://www.hipuku.dev/snippets#metaballs"><img src="assets/snippets/metaballs.gif" alt="Metaballs: a gooey merge in one SVG filter" title="Metaballs" width="32%"></a>
+&nbsp;<a href="https://www.hipuku.dev/snippets#path-editor"><img src="assets/snippets/path-editor.gif" alt="Path editor: a square travelling an editable bezier path" title="Path editor" width="32%"></a>
 </p>
 
 <br>
 <br>
 
-<h3><a href="https://www.hipuku.dev/writing"><img src="assets/headings/writing.png" alt="collected writings" height="40"></a></h3>
+<h3><a href="https://www.hipuku.dev/writing"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/headings/writing-dark.png"><img src="assets/headings/writing-light.png" alt="writing" height="29"></picture></a></h3>
 
 <br>
 
@@ -149,9 +147,6 @@ Sixteen interactive demos: physics integrated by hand, canvas fields, variable-f
 
 <br>
 <br>
-
----
-
 <br>
 
 Before this: front-end and test automation on a workflow-automation and messaging platform (React and TypeScript features, a Cucumber BDD regression suite, K6 canary and load tests, GitHub Actions), custom websites for clients, from brief to launch, and [maple](https://maple-demo.hipuku.dev), an app where a design studio keeps its clients' brands. Design and development work has won Indigo Awards Gold for Website Design (2024, 2026) and Mobile App (2025).
