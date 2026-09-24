@@ -66,12 +66,10 @@ Get in touch about projects in design systems, design engineering or frontend.
 
 <br clear="left">
 <br>
+<br>
+<br>
 
 <img src="assets/headings/tools-grey.png" alt="tools" height="29">
-
-Free, in the browser, no sign-up, MIT licensed.
-
-<br>
 
 <a href="https://tokenise.hipuku.dev"><img src="assets/logos/tokenise.svg" alt="tokenise" width="260" align="left"></a>
 
@@ -108,22 +106,20 @@ Free, in the browser, no sign-up, MIT licensed.
 
 <br clear="left">
 <br>
+<br>
+<br>
 
 <img src="assets/headings/snippets-grey.png" alt="snippets" height="29">
 
-Motion and interaction techniques from client work, each shown beside its code. Select one to try it live.
-
-<br>
-
 <p>
 <a href="https://www.hipuku.dev/snippets#velocity-marquee"><img src="assets/snippets/velocity-marquee.gif" alt="Velocity marquee: rows of type pushed by scrolling" title="Velocity marquee" width="32%"></a>
-&nbsp;<a href="https://www.hipuku.dev/snippets#shape-pit"><img src="assets/snippets/shape-pit.gif" alt="Shape pit: concave bodies falling into a pit" title="Shape pit" width="32%"></a>
+&nbsp;<a href="https://www.hipuku.dev/snippets#metaballs"><img src="assets/snippets/metaballs.gif" alt="Metaballs: a gooey merge in one SVG filter" title="Metaballs" width="32%"></a>
 &nbsp;<a href="https://www.hipuku.dev/snippets#text-scramble"><img src="assets/snippets/text-scramble.gif" alt="Text scramble: the letters of a phrase scrambling under the cursor" title="Text scramble" width="32%"></a>
 </p>
 
 <p>
 <a href="https://www.hipuku.dev/snippets#cloth-pluck"><img src="assets/snippets/cloth-pluck.gif" alt="Cloth pluck: a verlet cloth being pulled" title="Cloth pluck" width="32%"></a>
-&nbsp;<a href="https://www.hipuku.dev/snippets#metaballs"><img src="assets/snippets/metaballs.gif" alt="Metaballs: a gooey merge in one SVG filter" title="Metaballs" width="32%"></a>
+&nbsp;<a href="https://www.hipuku.dev/snippets#shape-pit"><img src="assets/snippets/shape-pit.gif" alt="Shape pit: concave bodies falling into a pit" title="Shape pit" width="32%"></a>
 &nbsp;<a href="https://www.hipuku.dev/snippets#path-editor"><img src="assets/snippets/path-editor.gif" alt="Path editor: a square travelling an editable bezier path" title="Path editor" width="32%"></a>
 </p>
 
