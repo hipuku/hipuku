@@ -105,8 +105,8 @@ canvas particle systems, variable-font type and GSAP. Each one shows its code be
 <tr>
 <td width="50%" valign="top">
 <sub>Work</sub>
-<p>Software engineer at Pendula, 2023 to 2025, on a workflow-automation and messaging platform: React and TypeScript features, a Cucumber BDD regression suite, K6 canary and load tests, and the GitHub Actions around them. <a href="https://www.hipuku.dev/work/pendula">Case study</a></p>
-<p>Co-founder of three55 studio: custom websites, and maple, the studio's app for its clients' brand assets. <a href="https://maple-demo.hipuku.dev">Read-only demo</a></p>
+<p>Front-end and test automation on a workflow-automation and messaging platform: React and TypeScript features, a Cucumber BDD regression suite, K6 canary and load tests, and the GitHub Actions that run them.</p>
+<p>Custom websites for clients, from brief to launch, and maple, an app where a design studio keeps its clients' brand assets. <a href="https://maple-demo.hipuku.dev">Read-only demo</a></p>
 <p>Design and development work has won Indigo Awards Gold for Website Design (2024, 2026) and Mobile App (2025).</p>
 </td>
 <td width="50%" valign="top">
