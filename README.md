@@ -19,11 +19,11 @@ Get in touch about projects in design systems, design engineering or frontend.
 </p>
 
 <br>
-<br>
 
-<h3><a href="https://www.hipuku.dev/work"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/headings/work-dark.png"><img src="assets/headings/work-light.png" alt="work" height="29"></picture></a></h3>
-
-<br>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hipuku/hipuku/main/assets/headings/work-dark.png">
+<img src="https://raw.githubusercontent.com/hipuku/hipuku/main/assets/headings/work-light.png" alt="work" height="29">
+</picture>
 
 <a href="https://www.hipuku.dev/work/haus"><img src="assets/logos/haus.svg" alt="haus" width="260" align="left"></a>
 
@@ -70,9 +70,10 @@ Get in touch about projects in design systems, design engineering or frontend.
 <br clear="left">
 <br>
 
-<br>
-
-<h3><a href="https://www.hipuku.dev/experiments"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/headings/tools-dark.png"><img src="assets/headings/tools-light.png" alt="tools" height="29"></picture></a></h3>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hipuku/hipuku/main/assets/headings/tools-dark.png">
+<img src="https://raw.githubusercontent.com/hipuku/hipuku/main/assets/headings/tools-light.png" alt="tools" height="29">
+</picture>
 
 Free, in the browser, no sign-up, MIT licensed.
 
@@ -114,9 +115,10 @@ Free, in the browser, no sign-up, MIT licensed.
 <br clear="left">
 <br>
 
-<br>
-
-<h3><a href="https://www.hipuku.dev/snippets"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/headings/snippets-dark.png"><img src="assets/headings/snippets-light.png" alt="snippets" height="29"></picture></a></h3>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hipuku/hipuku/main/assets/headings/snippets-dark.png">
+<img src="https://raw.githubusercontent.com/hipuku/hipuku/main/assets/headings/snippets-light.png" alt="snippets" height="29">
+</picture>
 
 Motion and interaction techniques from client work, each shown beside its code. Select one to try it live.
 
@@ -135,18 +137,16 @@ Motion and interaction techniques from client work, each shown beside its code. 
 </p>
 
 <br>
-<br>
 
-<h3><a href="https://www.hipuku.dev/writing"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/headings/writing-dark.png"><img src="assets/headings/writing-light.png" alt="writing" height="29"></picture></a></h3>
-
-<br>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hipuku/hipuku/main/assets/headings/writing-dark.png">
+<img src="https://raw.githubusercontent.com/hipuku/hipuku/main/assets/headings/writing-light.png" alt="writing" height="29">
+</picture>
 
 - [The Language We Never Agreed On](https://www.hipuku.dev/writing/the-language-we-never-agreed-on): why four design token formats overlap and still disagree.
 - [The Default Is Not a Design Decision](https://www.hipuku.dev/writing/the-default-is-not-a-design-decision): why so many products built from the same defaults look alike.
 - [Motion Deserves Better Than a Prop](https://www.hipuku.dev/writing/motion-deserves-better-than-a-prop): motion as the one design medium that exists in time.
 
-<br>
-<br>
 <br>
 
 Before this: front-end and test automation on a workflow-automation and messaging platform (React and TypeScript features, a Cucumber BDD regression suite, K6 canary and load tests, GitHub Actions), custom websites for clients, from brief to launch, and [maple](https://maple-demo.hipuku.dev), an app where a design studio keeps its clients' brands. Design and development work has won Indigo Awards Gold for Website Design (2024, 2026) and Mobile App (2025).
