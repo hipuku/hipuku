@@ -125,15 +125,15 @@ Sixteen interactive demos: physics integrated by hand, canvas fields, variable-f
 <br>
 
 <p>
-<a href="https://www.hipuku.dev/snippets"><img src="assets/snippets/shape-pit.gif" alt="Shape pit: concave bodies falling into a pit" title="Shape pit" width="32%"></a>&nbsp;
-<a href="https://www.hipuku.dev/snippets"><img src="assets/snippets/cloth-pluck.gif" alt="Cloth pluck: a verlet cloth being pulled" title="Cloth pluck" width="32%"></a>&nbsp;
-<a href="https://www.hipuku.dev/snippets"><img src="assets/snippets/text-pressure.gif" alt="Text pressure: variable-font weight under the cursor" title="Text pressure" width="32%"></a>
+<a href="https://www.hipuku.dev/snippets#shape-pit"><img src="assets/snippets/shape-pit.gif" alt="Shape pit: concave bodies falling into a pit" title="Shape pit" width="32%"></a>&nbsp;
+<a href="https://www.hipuku.dev/snippets#cloth-pluck"><img src="assets/snippets/cloth-pluck.gif" alt="Cloth pluck: a verlet cloth being pulled" title="Cloth pluck" width="32%"></a>&nbsp;
+<a href="https://www.hipuku.dev/snippets#text-pressure"><img src="assets/snippets/text-pressure.gif" alt="Text pressure: variable-font weight under the cursor" title="Text pressure" width="32%"></a>
 </p>
 
 <p>
-<a href="https://www.hipuku.dev/snippets"><img src="assets/snippets/flocking.gif" alt="Flocking: a flock scattering from the cursor" title="Flocking" width="32%"></a>&nbsp;
-<a href="https://www.hipuku.dev/snippets"><img src="assets/snippets/metaballs.gif" alt="Metaballs: a gooey merge in one SVG filter" title="Metaballs" width="32%"></a>&nbsp;
-<a href="https://www.hipuku.dev/snippets"><img src="assets/snippets/iron-filings.gif" alt="Iron filings: field lines on a grid" title="Iron filings" width="32%"></a>
+<a href="https://www.hipuku.dev/snippets#flocking"><img src="assets/snippets/flocking.gif" alt="Flocking: a flock scattering from the cursor" title="Flocking" width="32%"></a>&nbsp;
+<a href="https://www.hipuku.dev/snippets#metaballs"><img src="assets/snippets/metaballs.gif" alt="Metaballs: a gooey merge in one SVG filter" title="Metaballs" width="32%"></a>&nbsp;
+<a href="https://www.hipuku.dev/snippets#iron-filings"><img src="assets/snippets/iron-filings.gif" alt="Iron filings: field lines on a grid" title="Iron filings" width="32%"></a>
 </p>
 
 <br>
