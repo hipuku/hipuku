@@ -20,10 +20,7 @@ Get in touch about projects in design systems, design engineering or frontend.
 
 <br>
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hipuku/hipuku/main/assets/headings/work-dark.png">
-<img src="https://raw.githubusercontent.com/hipuku/hipuku/main/assets/headings/work-light.png" alt="work" height="29">
-</picture>
+<img src="assets/headings/work-grey.png" alt="work" height="29">
 
 <a href="https://www.hipuku.dev/work/haus"><img src="assets/logos/haus.svg" alt="haus" width="260" align="left"></a>
 
@@ -70,10 +67,7 @@ Get in touch about projects in design systems, design engineering or frontend.
 <br clear="left">
 <br>
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hipuku/hipuku/main/assets/headings/tools-dark.png">
-<img src="https://raw.githubusercontent.com/hipuku/hipuku/main/assets/headings/tools-light.png" alt="tools" height="29">
-</picture>
+<img src="assets/headings/tools-grey.png" alt="tools" height="29">
 
 Free, in the browser, no sign-up, MIT licensed.
 
@@ -115,10 +109,7 @@ Free, in the browser, no sign-up, MIT licensed.
 <br clear="left">
 <br>
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hipuku/hipuku/main/assets/headings/snippets-dark.png">
-<img src="https://raw.githubusercontent.com/hipuku/hipuku/main/assets/headings/snippets-light.png" alt="snippets" height="29">
-</picture>
+<img src="assets/headings/snippets-grey.png" alt="snippets" height="29">
 
 Motion and interaction techniques from client work, each shown beside its code. Select one to try it live.
 
@@ -138,10 +129,7 @@ Motion and interaction techniques from client work, each shown beside its code. 
 
 <br>
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hipuku/hipuku/main/assets/headings/writing-dark.png">
-<img src="https://raw.githubusercontent.com/hipuku/hipuku/main/assets/headings/writing-light.png" alt="writing" height="29">
-</picture>
+<img src="assets/headings/writing-grey.png" alt="writing" height="29">
 
 - [The Language We Never Agreed On](https://www.hipuku.dev/writing/the-language-we-never-agreed-on): why four design token formats overlap and still disagree.
 - [The Default Is Not a Design Decision](https://www.hipuku.dev/writing/the-default-is-not-a-design-decision): why so many products built from the same defaults look alike.
