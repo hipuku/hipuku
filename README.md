@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Design engineer in Sydney, a bit obsessed with design systems. I design the interface and write the code for it, in React and TypeScript with accessibility built in.
+Design engineer in Sydney, working mostly on design systems. I design the interface and write the code for it, in React and TypeScript with accessibility built in.
 </p>
 
 <p align="center">
