@@ -9,7 +9,7 @@ Design engineer in Sydney, a bit obsessed with design systems. I design the inte
 </p>
 
 <p align="center">
-Open to design engineer roles, and to projects in design systems and frontend.
+Open to collaboration, so if something here sounds like your kind of thing, say hi.
 </p>
 
 <p align="center">
