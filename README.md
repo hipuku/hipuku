@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-Software engineer in Sydney, working on design systems, testing and the tools around them, in React and TypeScript with accessibility built in.
+Design engineer in Sydney, a bit obsessed with design systems. I design the interface and write the code for it, in React and TypeScript with accessibility built in.
 </p>
 
 <p align="center">
-Get in touch about projects in design systems, design engineering or frontend.
+Open to design engineer roles, and to projects in design systems and frontend.
 </p>
 
 <p align="center">
@@ -40,11 +40,11 @@ Get in touch about projects in design systems, design engineering or frontend.
 <br clear="left">
 <br>
 
-<a href="https://www.hipuku.dev/work/core"><img src="assets/logos/core.svg" alt="core" width="260" align="left"></a>
+<a href="https://core.hipuku.dev"><img src="assets/logos/core.svg" alt="core" width="260" align="left"></a>
 
 **A team decision log.** ADRs with a permission-gated lifecycle, two audit trails, and GitHub citations that report when the cited code changes.
 
-[Demo](https://core.hipuku.dev) · [Source](https://github.com/hipuku/core) · [Case study](https://www.hipuku.dev/work/core)
+[Demo](https://core.hipuku.dev) · [Source](https://github.com/hipuku/core)
 
 <br clear="left">
 <br>
@@ -127,9 +127,11 @@ Get in touch about projects in design systems, design engineering or frontend.
 
 <img src="assets/headings/writing-grey.png" alt="writing" height="29">
 
-- [The Language We Never Agreed On](https://www.hipuku.dev/writing/the-language-we-never-agreed-on): why four design token formats overlap and still disagree.
-- [The Default Is Not a Design Decision](https://www.hipuku.dev/writing/the-default-is-not-a-design-decision): why so many products built from the same defaults look alike.
-- [Motion Deserves Better Than a Prop](https://www.hipuku.dev/writing/motion-deserves-better-than-a-prop): motion as the one design medium that exists in time.
+- [The Default Is Not a Design Decision](https://www.hipuku.dev/writing/the-default-is-not-a-design-decision): how the design industry built the infrastructure of sameness, and called it best practice.
+- [The Language We Never Agreed On](https://www.hipuku.dev/writing/the-language-we-never-agreed-on): ten years of design tokens, several competing formats, and the shared language that never arrived.
+- [Motion Deserves Better Than a Prop](https://www.hipuku.dev/writing/motion-deserves-better-than-a-prop): what we lost when animation became a component and time stopped mattering.
+- [What the 500 in Blue-500 Means](https://www.hipuku.dev/writing/what-the-500-in-blue-500-means): how colour palettes number their shades, and why blue-500 means something different in each one.
+- [Where the Disabled Button Got Its Rule](https://www.hipuku.dev/writing/where-the-disabled-button-got-its-rule): what Apple’s 1980 rules said about greyed-out commands.
 
 <br>
 
