@@ -13,7 +13,7 @@ Open to collaboration, so if something here sounds like your kind of thing, say 
 </p>
 
 <p align="center">
-<a href="mailto:hipuku.dev@gmail.com">hipuku.dev@gmail.com</a> &nbsp;·&nbsp;
+<a href="mailto:hello@hipuku.dev">hello@hipuku.dev</a> &nbsp;·&nbsp;
 <a href="https://www.hipuku.dev">hipuku.dev</a> &nbsp;·&nbsp;
 <a href="https://www.figma.com/@hipuku">Figma</a>
 </p>
